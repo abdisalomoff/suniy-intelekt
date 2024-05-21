@@ -2675,7 +2675,11 @@
  }
 
  .project-block-one .inner-box .image-box img {
-   width: 100%;
+   width: 386px;
+   height: 379px;
+   border-radius: 10px;
+   object-fit: cover;
+
  }
 
  .project-block-one .inner-box h3 {
@@ -13735,7 +13739,7 @@
  .content {
    display: flex;
    align-items: center;
-   padding-bottom: 100px;
+   padding-bottom: 1000px;
  }
 
  .content img {
