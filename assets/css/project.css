@@ -1,10 +1,20 @@
 .project-container {
-    width: 80%;
     margin: 80px auto;
+}
+
+.project-form{
+    margin: 0 auto;
+    width: 80%;
     padding: 30px;
     background-color: #f4f4f4;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.category-widget{
+    /* margin-top: 50px; */
+    width: 80%;
+    margin: 50px auto 0px;
 }
 
 .project-title {
