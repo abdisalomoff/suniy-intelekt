@@ -2062,9 +2062,9 @@ readers do not read off random characters that represent icons */
 
 .fa-engine-warning:before {
   content: "\f5f2"; }
-
+/* 
 .fa-envelope:before {
-  content: "\f0e0"; }
+  content: "\f0e0"; } */
 
 .fa-envelope-open:before {
   content: "\f2b6"; }
@@ -2927,8 +2927,8 @@ readers do not read off random characters that represent icons */
 .fa-heading:before {
   content: "\f1dc"; }
 
-.fa-headphones:before {
-  content: "\f025"; }
+/* .fa-headphones:before {
+  content: "\f025"; } */
 
 .fa-headphones-alt:before {
   content: "\f58f"; }
@@ -3932,8 +3932,8 @@ readers do not read off random characters that represent icons */
 .fa-pallet-alt:before {
   content: "\f483"; }
 
-.fa-paper-plane:before {
-  content: "\f1d8"; }
+/* .fa-paper-plane:before {
+  content: "\f1d8"; } */
 
 .fa-paperclip:before {
   content: "\f0c6"; }
@@ -4064,8 +4064,8 @@ readers do not read off random characters that represent icons */
 .fa-phoenix-squadron:before {
   content: "\f511"; }
 
-.fa-phone:before {
-  content: "\f095"; }
+/* .fa-phone:before {
+  content: "\f095"; } */
 
 .fa-phone-office:before {
   content: "\f67d"; }
@@ -5690,8 +5690,8 @@ readers do not read off random characters that represent icons */
 .fa-usd-square:before {
   content: "\f2e9"; }
 
-.fa-user:before {
-  content: "\f007"; }
+/* .fa-user:before {
+  content: "\f007"; } */
 
 .fa-user-alt:before {
   content: "\f406"; }
